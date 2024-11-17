@@ -1,0 +1,1 @@
+# _BigQuery-Embeddings-in-a-RAG-Architecture.
